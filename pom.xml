@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://13.53.193.252:8081/repository/Zain-release-repo/</url>
+	      <url>http://51.21.81.248:8081/repository/Zain-release-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.53.193.252:8081/repository/Zain-snapshot-repo/</url>
+	      <url>http://51.21.81.248:8081/repository/Zain-snapshot-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
